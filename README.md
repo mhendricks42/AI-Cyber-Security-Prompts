@@ -9,9 +9,9 @@ The purpose of this repository is to assist security professionals, researchers,
 Whether you are interested in building machine learning models for anomaly detection, developing AI-powered threat analysis tools, or exploring AI-driven incident response systems, this repository provides a starting point for your AI-driven cybersecurity journey.
 
 ## Prompts
-- [Networking](Network Security.md)
-- [Architect](Security Architect.md)
-- [Threat Intel](Threat intelligence.md)
+- [Networking](Network_Security.md)
+- [Architect](Security_Architect.md)
+- [Threat Intel](Threatintelligence.md)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
