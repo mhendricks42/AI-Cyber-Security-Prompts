@@ -8,7 +8,12 @@ The purpose of this repository is to assist security professionals, researchers,
 
 Whether you are interested in building machine learning models for anomaly detection, developing AI-powered threat analysis tools, or exploring AI-driven incident response systems, this repository provides a starting point for your AI-driven cybersecurity journey.
 
+## Prompts
+- [Networking]()
+- [Architect]()
+- [Threat Intel]()
+
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 I hope the AI Cyber Security Prompts project proves to be a valuable resource for your AI cybersecurity endeavors. Feel free to explore, contribute, and collaborate with the community to further strengthen the cybersecurity landscape with AI.
